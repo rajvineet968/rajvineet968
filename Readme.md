@@ -29,8 +29,7 @@ B.E. in Artificial Intelligence & Machine Learning (Sep 2023 – Sep 2027)
 **Frontend:**  
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
 ![EJS](https://img.shields.io/badge/EJS-red?logo=ejs&logoColor=white)  
 
 **Backend:**  
