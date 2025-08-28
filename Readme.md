@@ -48,7 +48,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5) 
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3) 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react) 
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) 
 ![EJS](https://img.shields.io/badge/EJS-red)
 
 **Backend:**  
