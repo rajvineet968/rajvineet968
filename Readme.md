@@ -80,13 +80,3 @@
 - 🎤 Organized **Ctrl+Alt+Compete**, a national hackathon with 330+ participants & ₹18K prize pool  
 
 ---
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=rajvineet968&show_icons=true&theme=dark" height="160px"/> | <img src="https://github-readme-stats.vercel.app/api?username=rajvineet968&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="160px"/> |
-
-
-
-
