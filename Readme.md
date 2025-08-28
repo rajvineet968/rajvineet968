@@ -39,30 +39,30 @@
 ## ⚒️ Skills
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-orange?logo=java) 
-![Python](https://img.shields.io/badge/Python-blue?logo=python) 
+![Java](https://img.shields.io/badge/Java-blue?logo=java) 
+![Python](https://img.shields.io/badge/Python-white?logo=python) 
 ![C](https://img.shields.io/badge/C-lightgrey?logo=c) 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?logo=javascript)
 
 **Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5) 
+![HTML](https://img.shields.io/badge/HTML5-grey?logo=html5) 
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react) 
+![React](https://img.shields.io/badge/React-grey?logo=react) 
 ![EJS](https://img.shields.io/badge/EJS-red)
 
 **Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js) 
+![Node.js](https://img.shields.io/badge/Node.js-grey?logo=node.js) 
 ![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
 
 **Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?logo=mongodb) 
+![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql)
 
 **Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git) 
+![Git](https://img.shields.io/badge/Git-white?logo=git) 
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter) 
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter) 
+![Colab](https://img.shields.io/badge/Google%20Colab-white?logo=googlecolab)
 
 ---
 
