@@ -34,9 +34,8 @@ B.E. in Artificial Intelligence & Machine Learning (Sep 2023 – Sep 2027)
 ---
 
 ## 🏆 Competitive Programming
-- Solved **91+ problems** on [LeetCode](https://leetcode.com/u/rajvineet968/)  
+- Solved **85+ problems** on [LeetCode](https://leetcode.com/u/rajvineet968/)  
 - **Contest Rating:** 1,361 (3 contests)  
-- Strengths: Arrays (50), Strings (20), Binary Search (19), Math (23), Hash Tables (14), Dynamic Programming, Backtracking  
 
 ---
 
