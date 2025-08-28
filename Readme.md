@@ -53,10 +53,8 @@ B.E. in Artificial Intelligence & Machine Learning (Sep 2023 – Sep 2027)
 ---
 
 ## 🚀 Projects
-- **AI-Powered Skin Disease Diagnosis** – Deep learning + Flask API for real-time skin disease detection. *(Python, Flask, YOLO, React.js)*  
-- **Carbon Emissions Tracker** – API-powered tool to estimate carbon footprint with dashboards. *(Python, React.js, Google Charts)*  
-- **IoT-Based Food Compliance Tracker** – Real-time IoT monitoring system for supply chain. *(Python, IoT, Data Analytics)*  
-
+**[Wanderlust](https://wanderlust-iir5.onrender.com)** – Travel listing web app with authentication, image uploads, and cloud storage.  
+  *Tech:* Node.js, Express.js, MongoDB, Passport.js, Multer, Cloudinary, EJS (MVC)
 ---
 
 ## 🏆 Competitive Programming
@@ -78,6 +76,3 @@ B.E. in Artificial Intelligence & Machine Learning (Sep 2023 – Sep 2027)
 - 🎤 Organized **Ctrl+Alt+Compete**, a national hackathon with 330+ participants & ₹18K prize pool.  
 
 ---
-
-## 📄 Resume
-📥 [Download Resume](./VINEET_RESUME_1.pdf)  
