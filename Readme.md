@@ -68,9 +68,6 @@
 
 ## 📂 Projects
 - 🌍 **[Wanderlust](https://wanderlust-iir5.onrender.com)** – Travel listing app with authentication, image uploads, and cloud storage. *(Node.js, Express, MongoDB, Passport.js, Multer, Cloudinary, EJS)*  
-- 🩺 **AI-Powered Skin Disease Diagnosis** – Deep learning model integrated with Flask API for real-time predictions. *(Python, Flask, YOLO, React.js)*  
-- 🌱 **Carbon Emissions Tracker** – API-powered dashboard to estimate and visualize carbon footprints. *(Python, React.js, Google Charts)*  
-- 🍴 **IoT Food Compliance Tracker** – IoT-based system for real-time supply chain monitoring. *(Python, IoT, Data Analytics)*  
 
 ---
 
