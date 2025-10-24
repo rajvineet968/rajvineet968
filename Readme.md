@@ -19,7 +19,7 @@
 <a href="https://github.com/rajvineet968"><img src="https://img.shields.io/badge/GitHub-rajvineet968-black?logo=github&logoColor=white"></a>
 <a href="mailto:rajvineet968@gmail.com"><img src="https://img.shields.io/badge/Email-rajvineet968%40gmail.com-red?logo=gmail&logoColor=white"></a>
  <div>
-    <a href="https://leetcode.com/u/rajvineet968" target="_blank">
+    <a href="https://leetcode.com/u/raj_vineet_22" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Frajvineet968&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Badge" />
 <a href="https://leetcode.com/u/rajvineet968"><img src="https://img.shields.io/badge/LeetCode-rajvineet968-orange?logo=leetcode&logoColor=yellow"></a>
 </a>
