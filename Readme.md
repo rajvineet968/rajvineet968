@@ -21,7 +21,6 @@
  <div>
     <a href="https://leetcode.com/u/raj_vineet_22" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fraj_vineet_22&logo=leetcode&logoColor=yellow" alt="LeetCode Solved Badge" />
-<a href="https://leetcode.com/u/raj_vineet_22"><img src="https://img.shields.io/badge/LeetCode-raj_vineet_22-orange?logo=leetcode&logoColor=yellow"></a>
 </a>
  </div>
 </div>
