@@ -74,10 +74,6 @@
 - 🥇 1st Prize – *Carbon Emissions Tracker* idea at **IASF-2024**, KLE Tech, Hubballi  
 - 🏅 Top Performer Award – *Crane-Hook Assembly-Wiz* (SolidWorks, RVCE)  
 - 🎤 Organized **Ctrl+Alt+Compete**, a national hackathon with 330+ participants & ₹18K prize pool
-- 🔥 LeetCode **50 Days Badge 2025**
-  <div align="center">
-   <img src="leetcode-50days.gif" alt="LeetCode 50 Days Badge 2025" width="250">
-  </div>
 
 
 ---
